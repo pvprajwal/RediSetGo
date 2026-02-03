@@ -9,4 +9,4 @@ This is a mini-project at the Programming Club, IIT Madras. Here is the list of 
 
 
 ## Deputy Coordinators:
-
+* [Mukunthan K U](https://github.com/DoublePower12)
