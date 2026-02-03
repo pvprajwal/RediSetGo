@@ -10,3 +10,4 @@ This is a mini-project at the Programming Club, IIT Madras. Here is the list of 
 
 ## Deputy Coordinators:
 
+* [NITHIL ADAV A](https://github.com/NA25-gh)
